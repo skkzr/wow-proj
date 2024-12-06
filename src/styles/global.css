@@ -1,0 +1,10 @@
+#webpack-dev-server-client-overlay-div,
+iframe {
+    display: none !important;
+}
+
+/* Additional selectors to ensure overlay is hidden */
+div[id*='overlay'],
+div[id*='webpack'] {
+    display: none !important;
+}
