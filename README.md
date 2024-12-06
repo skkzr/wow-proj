@@ -7,7 +7,7 @@ A web application that was based on data from the videogame MMORPG World of Warc
 ![Capstone Poster Image](/spencer-burge-blue-36x48a.jpg)
 
 
-[![Video Showcase of Capstone Project](https://imgur.com/EeQY8hR)](https://www.youtube.com/watch?v=JTybS8LrZiw "WoW Character Profile Showcase")
+[![Video Showcase of Capstone Project](https://img.youtube.com/vi/JTybS8LrZiw/0.jpg)](https://www.youtube.com/watch?v=JTybS8LrZiw "WoW Character Profile Showcase")
 
 
 
