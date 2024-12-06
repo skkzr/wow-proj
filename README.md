@@ -3,6 +3,10 @@
 ## 💸 Project Overview
 A web application that was based on data from the videogame MMORPG World of Warcraft. It allows users to search for characters that have data using their Region, Realm, and Character name. It is using data from the following APIs: Battle.net, Raider.IO, and Warcraft Logs. It will then display the character information in a clean and minimal way.
 
+
+![Capstone Poster Image](https://github.com/skkzr/wow-proj/blob/master/spencer-burge-blue-36x48.pdf)
+
+
 ## ✨ Features
 - **Character Search**: Search for characters by Region, Realm, and Character Name
 - **Profile Information Display**:
